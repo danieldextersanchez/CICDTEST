@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'danieltesting'
           slot-name: 'Production'
-          package: .next/standalone
+          package: .
           
